@@ -5,6 +5,16 @@
 </head>
 <body>
 <script type="text/javascript">
+confirm ("Are you ready to convert degrees to radians?")
+var degrees =prompt("What degree do you want to know?" 
+if ( degrees < 180)
+{ 
+    console.log("That's smaller than Math.PI")
+    }
+else
+{ 
+    console.log("That's bigger than Math.PI")
+}
 var unitCircle = {
 Degreee:0 &deg; 
 
