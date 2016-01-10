@@ -18,7 +18,74 @@ else
 var unitCircle = {
 Degreee:0 &deg; 
 
-
+find: function(degree){
+switch (degree) {
+ case "30":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "45":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "60":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "90":
+ console.log("MATH.PI and 3.14")
+ break;
+  case "120":
+ console.log("MATH.PI and 3.14")
+ break;
+  case "135":
+ console.log("MATH.PI and 3.14")
+ break;
+  case "150":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+ case "180":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+ case "210":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "225":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+ case "240":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "270":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "285":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "300":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "330":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+  case "345":
+ console.log("MATH.PI and 3.14")
+ break;
+ 
+ 
+  case "360":
+ console.log("2MATH.PI and 6.28")
+ break;
+ 
 
 
 
