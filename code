@@ -5,76 +5,76 @@
 </head>
 <body>
 <script type="text/javascript">
-confirm ("Are you ready to convert degrees to radians?")
-var degrees =prompt("What degree do you want to know?" 
+confirm ("Are you ready to convert degrees to radians?");
+var degrees =prompt("What degree do you want to know?"); 
 if ( degrees < 180)
 { 
-    console.log("That's smaller than Math.PI")
+    console.log("That's smaller than Math.PI");
     }
 else
 { 
-    console.log("That's bigger than Math.PI")
+    console.log("That's bigger than Math.PI");
 }
 var unitCircle = {
-Degreee:0 &deg; 
+Degreee:0 &deg ; 
 
 find: function(degree){
 switch (degree) {
  case "30":
- console.log("MATH.PI/6 and 0.52")
+ console.log("MATH.PI/6 and 0.52");
  break;
  
   case "45":
- console.log("MATH.PI/4 and 0.78")
+ console.log("MATH.PI/4 and 0.78");
  break;
  
   case "60":
- console.log("MATH.PI/3 and 1.04")
+ console.log("MATH.PI/3 and 1.04");
  break;
  
   case "90":
- console.log("MATH.PI/2 and 1.57")
+ console.log("MATH.PI/2 and 1.57");
  break;
   case "120":
- console.log("2MATH.PI/3, 2.08 or 2.09 ")
+ console.log("2MATH.PI/3, 2.08 or 2.09 ");
  break;
   case "135":
- console.log("3MATH.PI/4 and 2.35")
+ console.log("3MATH.PI/4 and 2.35");
  break;
   case "150":
- console.log("5MATH.PI/6 and 2.62")
+ console.log("5MATH.PI/6 and 2.62");
  break;
  
  case "180":
- console.log("MATH.PI and 3.14")
+ console.log("MATH.PI and 3.14");
  break;
  
  case "210":
- console.log("7MATH.PI/6 and 3.66")
+ console.log("7MATH.PI/6 and 3.66");
  break;
  
   case "225":
- console.log("5MATH.PI/4 and 3.92")
+ console.log("5MATH.PI/4 and 3.92");
  break;
  
  case "240":
- console.log("4MATH.PI/3, 4.18 or 4.19")
+ console.log("4MATH.PI/3, 4.18 or 4.19");
  break;
  
   case "270":
- console.log("3MATH.PI/2 and 3.14")
+ console.log("3MATH.PI/2 and 3.14");
  break;
  
   case "300":
- console.log("5MATH.PI/3, 5.23 or 5.24")
+ console.log("5MATH.PI/3, 5.23 or 5.24");
  break;
  
   case "315":
- console.log("7MATH.PI/4, 5.49 or 5.50")
+ console.log("7MATH.PI/4, 5.49 or 5.50");
  break;
  
   case "360":
- console.log("2MATH.PI and 6.28")
+ console.log("2MATH.PI and 6.28");
  break;
  }
  
